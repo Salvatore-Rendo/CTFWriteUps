@@ -7,16 +7,13 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
 
 - Network Security
    - [ ] [01 Network: Pcap](</olicyber-training/network/01-Pcap/01.md>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
+   - [ ] [02 Network: Details](</olicyber-training/network/02-Details/02.md>)
 
 - Web Security
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
- 
+   //TO ADD
 - Software Security
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
+   //TO ADD
  
 
 ---
-[Back to CTF Writeups List](</README.md>)
+[Back to CTF Writeups List](</README.md>){: .btn}

@@ -1,135 +1,44 @@
-# CTF-Writeup-Template
-Writeup Template. Feel free to replicate but please give me credit!
+# CTF-Writeups 
 
-To view samplers, check out the links:
-* [Main Page](https://github.com/RyanNgCT/CTF-Writeup-Template/blob/main/test/main.md)
-* [Challenge Page](https://github.com/RyanNgCT/CTF-Writeup-Template/blob/main/test/chall.md)
 
-Text enclosed in angled brackets are placeholders that need to be replaced.
+## 📝 Table of Contents
+- [CTF-Writeups](#ctf-writeups)
+  - [📝 Table of Contents](#-table-of-contents)
+  - [🧐 About ](#-about-)
+  - [📋 CTF Writeups List ](#-ctf-writeups-list-)
+  - [🎈 Usage ](#-usage-)
+  - [⛏️ Software Used ](#️-software-used-)
+  - [✍️ Authors ](#️-authors-)
 
-## Suggested Layout
+
+## 🧐 About <a name = "about"></a>
+
+List of some CTF Writeups done by [@Salvatore-Rendo](https://github.com/Salvatore-Rendo)
+
+## 📋 CTF Writeups List <a name = "ctf_list"></a>
+
+| Name | Writeup | Site |
+| :--- | :---: | :--- |
+|Olicyber Training CTF | [Writeups](/olicyber-training/main.md) | [Link](https://training.olicyber.it/) |
+
+## 🎈 Usage <a name="usage"></a>
+
+Click the relative [CTF Writeups List ](#-ctf-writeups-list-) writeup link.
+Or nagivate to the selected CTF folder and open the relative:
 ```
 main.md
-|
-|
----- Crypto/Stego
-|   |
-|   ---- chall1
-|      |
-|      ---- chall1.md
-|      |
-|      ---- chall1_images
-|          |
-|          ---- img1a
-|          |
-|          ---- img1b
-|
----- Misc
-|   |
-|   ---- chall2
-|      |
-|      ---- chall2.md
-|      |
-|      ---- chall2_images
-|          |
-|          ---- img2a
-|          |
-|          ---- img2b
-|
-
-...
-
 ```
 
+## ⛏️ Software Used <a name = "software_used"></a>
 
-## Main Page:
-```
-# <CTF_NAME> CTF
-
-Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
-
-## Categories
-
-- Crypto/Stego
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-   
-- Forensics
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-   
-- Reverse Engineering/Malware
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- Pwn/Binary Exploitation
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- Networking
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
- 
-- Cloud
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-   
-- IoT
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- ML
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- Hardware
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- OSINT
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- Miscellaneous
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-```
-_\* delete where necessary_
+- [Wireshark](https://www.wireshark.org/) - Network Protocol Analyzer
+- [Python](https://www.python.org/) - Scripting Language
+- [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering tool
+- [Burpsuite](https://portswigger.net/burp) - Web Application Security Testing Tool
 
 
-## Challenge Page:
-```
-## Challenge Name: <name>
-Category: <category>
-Points: <points>
-Solves: <number>
+## ✍️ Authors <a name = "authors"></a>
 
-Challenge Description: 
-<descript>
-
-Artifact Files:
-* [Artifact1]()
-* [Artifact2]()
-
-### Approach
-
-**1. <Question_1_description>?/flag1**
-
-![img](<image_link>)
-
-**2. <Question_2_description>?/flag2**
-
-![img](<image_link>)
+- [@Salvatore-Rendo](https://github.com/Salvatore-Rendo) - Idea & Initial work
 
 
-### Reflections
-<reflections ...>
-  
-
----
-[Back to home](<link>)
-
-```
-
-## Shortcuts and Tips
-- for downloading files when doing the CTF, one can use `wget --content-disposition <file_link>` to obtain the file with the same name from the CTF file server (if not hosted on a Drive solution).

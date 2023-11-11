@@ -17,3 +17,6 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [<challenge_1>](<link_to_writeup>)
    - [ ] [<challenge_2>](<link_to_writeup>)
  
+
+---
+[Back to CTF Writeups List](</README.md>)

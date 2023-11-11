@@ -1,12 +1,12 @@
 ## Challenge Name: <name>
-Category: <category>
-Points: <points>
-Solves: <number>
+**Category:** <category>
+**Points:** <points>
+**Solves:** <number>
 
-Challenge Description: 
+**Challenge Description:** 
 <descript>
 
-Artifact Files:
+**Artifact Files:**
 * [Artifact1]()
 * [Artifact2]()
 

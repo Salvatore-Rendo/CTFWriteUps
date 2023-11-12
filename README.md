@@ -40,9 +40,9 @@ List of some CTF Writeups done by [@Salvatore-Rendo](https://github.com/Salvator
 
 ## 📋 CTF Writeups List <a name = "ctf_list"></a>
 
-| Name | Writeup | Site |
+| Name | Website | Writeups |
 | :--- | :---: | :--- |
-|Olicyber Training CTF | [Writeups](/olicyber-training/main.md) | [Link](https://training.olicyber.it/) |
+|Olicyber Training CTF | [Website](https://training.olicyber.it/) | [Writeups](/olicyber-training/main.md) |
 
 ## 🎈 Usage <a name="usage"></a>
 

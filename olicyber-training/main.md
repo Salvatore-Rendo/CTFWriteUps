@@ -12,6 +12,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [04 Network: Filters 2](/olicyber-training/network/04-Filters-2/challenge.md)
    - [ ] [05 Network: Filters 3](/olicyber-training/network/05-Filters-3/challenge.md)
    - [ ] [06 Network: Filters 4](/olicyber-training/network/06-Filters-4/challenge.md)
+   - [ ] [07 Network: Stream TCP](/olicyber-training/network/07-StreamTCP/challenge.md)
 - Web Security
    //TO ADD
 - Software Security

@@ -163,3 +163,6 @@ cython_debug/
 test/main.md
 test/main.md
 olicyber-training/network/05-Filters-3/.DS_Store
+olicyber-training/network/08-ByteExtraction/.DS_Store
+olicyber-training/network/08-ByteExtraction/artifacts/.DS_Store
+*/.DS_Store

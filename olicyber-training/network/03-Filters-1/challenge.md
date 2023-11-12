@@ -31,4 +31,4 @@ Easy starting challenge
   
 
 ---
-[Back to home](</olicyber-training/main.md>){: .btn}
+<a href="/olicyber-training/main.md" class="btn">Back to home</a>

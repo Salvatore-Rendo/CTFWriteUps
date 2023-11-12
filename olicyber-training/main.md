@@ -19,4 +19,4 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
  
 
 ---
-[Back to CTF Writeups List](</README.md>){: .btn}
+<a href="/README.md" class="btn">Back to CTF Writeups List</a>

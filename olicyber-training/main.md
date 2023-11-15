@@ -16,6 +16,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [08 Network: Byte Extraction](/olicyber-training/network/08-ByteExtraction/challenge.md)
    - [ ] [09 Network: TLS Traffic Decrypt](/olicyber-training/network/09-TLSTrafficDecrypt/challenge.md)
    - [ ] [Network: Cat](/olicyber-training/network/Cat/challenge.md)
+   - [ ] [Network: Wordwang](/olicyber-training/network/Wordwang/challenge.md)
 - Web Security
    //TO ADD
 - Software Security

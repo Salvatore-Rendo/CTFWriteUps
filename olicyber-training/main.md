@@ -18,7 +18,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [Network: Cat](/olicyber-training/network/Cat/challenge.md)
    - [ ] [Network: Wordwang](/olicyber-training/network/Wordwang/challenge.md)
 - Web Security
-   //TO ADD
+   - [ ] [01 WEB: HTTP: A simple GET request](/olicyber-training/web/01-Get/challenge.md)
 - Software Security
    //TO ADD
  

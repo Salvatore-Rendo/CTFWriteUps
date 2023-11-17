@@ -9,7 +9,7 @@ Similar to challenge number 3, the objective is to obtain the resource http://we
 
 ### Approach
 
-Create a request with the accept header set to application/xml with python with the following [script](/olicyber-training/web/04-Get-accept/solve.py):
+Create a request with the accept header set to application/xml with python with the following [script](/olicyber-training/web/05-cookie/solve.py):
 
 
 ```

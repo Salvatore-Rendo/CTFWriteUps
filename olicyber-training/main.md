@@ -22,7 +22,8 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [02 Web: HTTP: GET request with query string](/olicyber-training/web/02-Get-query/challenge.md)
    - [ ] [03 Web: HTTP: GET request with manual header](/olicyber-training/web/03-Get-header/challenge.md)
    - [ ] [04 Web: HTTP: The Accept header](/olicyber-training/web/04-Get-accept/challenge.md)
-   - [ ] [05 Web: HTTP: Manual cookie](/olicyber-training/web/05-cookie/challenge.md) 
+   - [ ] [05 Web: HTTP: Manual cookie](/olicyber-training/web/05-cookie/challenge.md)
+   - [ ] [06 Web: HTTP: Receive a cookie](/olicyber-training/web/06-recive-cookie/challenge.md)
 - Software Security
    //TO ADD
  

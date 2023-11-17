@@ -26,6 +26,8 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [06 Web: HTTP: Receive a cookie](/olicyber-training/web/06-recive-cookie/challenge.md)
    - [ ] [07 Web: HTTP: HEAD Method](/olicyber-training/web/07-head-method/challenge.md)
    - [ ] [08 Web: HTTP: POST request](/olicyber-training/web/08-Post/challenge.md)
+   - [ ] [09 Web: HTTP: POST request with json body](/olicyber-training/web/09-Post-json/challenge.md)
+   - [ ] [10 Web: HTTP: Option Method](/olicyber-training/web/10-Option/challenge.md)
 - Software Security
    //TO ADD
  

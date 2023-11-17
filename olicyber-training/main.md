@@ -20,6 +20,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
 - Web Security
    - [ ] [01 Web: HTTP: A simple GET request](/olicyber-training/web/01-Get/challenge.md)
    - [ ] [02 Web: HTTP: GET request with query string](/olicyber-training/web/02-Get-query/challenge.md)
+   - [ ] [03 Web: HTTP: GET request with manual header](/olicyber-training/web/03-Get-header/challenge.md)
 - Software Security
    //TO ADD
  

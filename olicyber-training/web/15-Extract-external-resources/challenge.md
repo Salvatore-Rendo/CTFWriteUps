@@ -10,7 +10,7 @@ In this challenge the flag is in one of the external resources of the page acces
 
 As descripted in the challenge description to solve this challenge is necessary to find the flag inside the external resources of the server.
 
-The solution to this challenge is this [script](/olicyber-training/web/14-Extract-comments/solve.py):
+The solution to this challenge is this [script](/olicyber-training/web/15-Extract-external-resources/solve.py):
 
 ```
 from bs4 import BeautifulSoup

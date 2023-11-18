@@ -30,6 +30,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [10 Web: HTTP: Option Method](/olicyber-training/web/10-Option/challenge.md)
    - [ ] [11 Web: HTTP: CSRF Tokens](/olicyber-training/web/11-Csrf-token/challenge.md)
    - [ ] [12 Web: Web technologies: extract simple content from a web page](/olicyber-training/web/12-Extract-from-website/challenge.md)
+   - [ ] [13 Web: Web technologies: extract elements from a web page](/olicyber-training/web/13-Extract-elements/challenge.md)
 - Software Security
    //TO ADD
  

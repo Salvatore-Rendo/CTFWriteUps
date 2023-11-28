@@ -36,6 +36,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [14 Web: Web technologies: extract comments from a web page](/olicyber-training/web/14-Extract-comments/challenge.md)
    - [ ] [15 Web: Web technologies: External Resources](/olicyber-training/web/15-Extract-external-resources/challenge.md)
    - [ ] [16 Web: Web technologies: a simple spider](/olicyber-training/web/16-Extract-with-spider/challenge.md)
+   - [ ] [Just a Reminder](/olicyber-training/web/just-a-reminder/challenge.md)
 - Software Security
    //TO ADD
  

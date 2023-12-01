@@ -44,6 +44,7 @@ List of some CTF Writeups done by [@Salvatore-Rendo](https://github.com/Salvator
 | :--- | :---: | :--- |
 |Olicyber Training CTF | [Website](https://training.olicyber.it/) | [Writeups](/olicyber-training/main.md) |
 |Pwn College | [Website](https://pwn.college/) | [Writeups](/pwn-college/main.md) |
+|TryHackMe: Advent of Cyber | [Website](https://tryhackme.com/room/adventofcyber2023) | [Writeups](/advent-of-cyber/main.md) |
 
 ## 🎈 Usage <a name="usage"></a>
 

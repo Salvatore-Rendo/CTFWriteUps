@@ -29,7 +29,7 @@ For the first question we can retrive the email just by asking it to the chatbot
 
 ```t.mcgreedy@antarcticrafts.thm```
 
-**2 What is the password for the IT server room door?**
+**2. What is the password for the IT server room door?**
 
 To retrive the password for the IT server room door is required to "be" a member of the IT department:
 

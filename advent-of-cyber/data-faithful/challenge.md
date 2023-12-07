@@ -14,7 +14,7 @@ It’s another task. It reads, “The B-Team has been tasked with understanding 
 
 ### Approach
 
-**1.How many packets were captured?**
+**1. How many packets were captured?**
 After importing pandas and matplotlib libraries and reading the .csv file with:
 ```df = pd.read_csv('network_traffic.csv')```
 
@@ -28,7 +28,7 @@ It's possible to retrive the packets logged inside the file with:
 
 ```100``` is the answer.    
 
-**2 What IP address sent the most amount of traffic during the packet capture?**
+**2. What IP address sent the most amount of traffic during the packet capture?**
 
 To retrive the Ip address that sent the most amount of packets we can use the groupby() funcion in conjuntion with the size() function:
 ```df.groupby(['Source']).size()```
@@ -38,7 +38,7 @@ To retrive the Ip address that sent the most amount of packets we can use the gr
 
 IP Address: ```10.10.1.4``` with 15 packets.
 
-**3.What was the most frequent protocol?**
+**3. What was the most frequent protocol?**
 
 For the most frequent protocol used inside the packet capture we can use again the groupby() and size() functions:
 ```df.groupby(['Protocol']).size()```

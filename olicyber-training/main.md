@@ -41,6 +41,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [iForgot](/olicyber-training/web/Iforgot/challenge.md)
    - [ ] [Confuse me](/olicyber-training/web/Confuse-me/challenge.md)
    - [ ] [Password Changer 3000](/olicyber-training/web/Password-changer/challenge.md)
+   - [ ] [Basic SQLi](/olicyber-training/web/Basic-sqli/challenge.md)
 - Software Security
    //TO ADD
  

@@ -39,6 +39,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [Just a Reminder](/olicyber-training/web/just-a-reminder/challenge.md)
    - [ ] [Rick Roller](/olicyber-training/web/Rick-Roller/challenge.md)
    - [ ] [iForgot](/olicyber-training/web/Iforgot/challenge.md)
+   - [ ] [Confuse me](/olicyber-training/web/Confuse-me/challenge.md)
 - Software Security
    //TO ADD
  

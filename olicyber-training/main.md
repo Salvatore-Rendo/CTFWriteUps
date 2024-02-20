@@ -38,6 +38,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [16 Web: Web technologies: a simple spider](/olicyber-training/web/16-Extract-with-spider/challenge.md)
    - [ ] [Just a Reminder](/olicyber-training/web/just-a-reminder/challenge.md)
    - [ ] [Rick Roller](/olicyber-training/web/Rick-Roller/challenge.md)
+   - [ ] [iForgot](/olicyber-training/web/Iforgot/challenge.md)
 - Software Security
    //TO ADD
  

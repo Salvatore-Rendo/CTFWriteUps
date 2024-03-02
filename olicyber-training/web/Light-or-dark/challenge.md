@@ -10,7 +10,7 @@ Website: http://lightdark.challs.olicyber.it
 
 ### Approach
 
-The challenge 
+This is the source code of the provided site:
 ```
 <?php
 
@@ -83,7 +83,7 @@ $css = "static/css/" . $path;
 </html>
 ``` 
 
-By looking at the php code i found 2 different steps to bypass:
+By looking at the php code i found 2 different steps to bypass to get the website to open ```flag.txt``` :
 - Directory Traversal filter
 - File extension check
 

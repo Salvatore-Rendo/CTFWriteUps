@@ -92,6 +92,13 @@ Following there is the solution of this challenge and immediately after there is
 http://lightdark.challs.olicyber.it/index.php?tema=.../.../.../.../.../flag.txt%00.css
 ```
 
+or 
+
+```
+view-source:http://lightdark.challs.olicyber.it/index.php?tema=.../.../.../.../.../flag.txt%00.css
+```
+
+
 #### Directory Traversal with .../ and null byte %00
 
 In the PHP script provided, there's a vulnerability in how the $path variable is constructed based on the tema parameter from the URL. The code uses ../ to navigate up one directory level from the static/css/ directory. However, since the code replaces ../ with ./, it effectively nullifies the attempt to traverse directories.
@@ -112,7 +119,7 @@ By combining the use of .../ for directory traversal and %00 for bypassing file 
 flag{l1ght_1s_f0r_n00bs_d4rk_1s_f0r_h4ck3rs}    
 ```
 ### Reflections
-Easy difficulty challenge
+Intresting path traversal challenge.
   
 
 ---

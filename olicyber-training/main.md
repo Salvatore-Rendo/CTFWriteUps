@@ -47,6 +47,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [Time is key](/olicyber-training/web/Time-is-key/challenge.md)
    - [ ] [Uncle Frank](/olicyber-training/web/Uncle-frank/challenge.md)
    - [ ] [C style Login](/olicyber-training/web/C-style-login/challenge.md)
+   - [ ] [Make a Wish](/olicyber-training/web/Make-a-wish/challenge.md)
 - Software Security
    //TO ADD
  

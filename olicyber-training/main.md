@@ -49,6 +49,7 @@ Writeups for Olicyber Training CTF: [olicyber training](<https://training.olicyb
    - [ ] [C style Login](/olicyber-training/web/C-style-login/challenge.md)
    - [ ] [Make a Wish](/olicyber-training/web/Make-a-wish/challenge.md)
    - [ ] [Sn4ck Sh3nan1gans](/olicyber-training/web/Snack/challenge.md)
+   - [ ] [Shell Revenge](/olicyber-training/web/Shell-revenge/challenge.md)
 - Software Security
    //TO ADD
  

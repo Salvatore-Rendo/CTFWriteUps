@@ -32,7 +32,7 @@ In this level, **PIE** (Position Independent Executable) is enabled, which means
 
 Analyzing the binary on Gidra I found where will the buffer be stored inside the stack, knowing its offset form the RBP helps to understand the size of the payload.
 
-![img](</pwn-college/memory-errors/level8/images/img1.png>)
+![img](</pwn-college/Program-Security/memory-errors/level8/images/img1.png>)
 
 
 The challenge will allocate a correctly-sized temporary
@@ -43,12 +43,12 @@ if( 0x39 < strlen(buff_heap))
 ```
 inserting a null byte '\x00' inside the payload is enought to bypass this check.
 
-![img](</pwn-college/memory-errors/level8/images/img2.png>)
+![img](</pwn-college/Program-Security/memory-errors/level8/images/img2.png>)
 
 About the **win_authed()** function is easy to bypass the check, it's enought to overwrite the return address past the token check to bypass it!
 To do this, we will need to analyze the program, identify where the check is in the win_authed() function, find the address right after the check, and write that address over the saved return address.
 
-![img](</pwn-college/memory-errors/level8/images/img3.png>)
+![img](</pwn-college/Program-Security/memory-errors/level8/images/img3.png>)
 
 As said before, since the PIE is active we will bruteforce the 2 least significant bytes of the found address: <1f 20>
 
@@ -66,7 +66,7 @@ PAYLOAD =
 
 
 ### Solution
-[Code here](/pwn-college/memory-errors/level8/solution.py)
+[Code here](/pwn-college/Program-Security/memory-errors/level8/solution.py)
 
 ```
 # Import necessary module from the pwntools library
